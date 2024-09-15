@@ -1,5 +1,5 @@
 # alpine-hysteria2
-在alpine中安装hysteria2
+在alpine中安装hysteria2  v6
 
 ## 一键食用
 ```
